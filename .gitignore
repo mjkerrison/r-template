@@ -47,3 +47,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# {targets}, if it exists (and doesn't have a nested .gitignore):
+_targets/
